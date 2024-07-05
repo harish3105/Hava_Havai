@@ -13,11 +13,7 @@ Link: https://dour-blade-da4.notion.site/Hava-Havai-Frontend-Assignment-Referenc
 
 
 
-Important Instructions: 
-Upon applying to the company, it is essential to participate in every stage of the interview process. 
-If you don't participate in the interview process, companies lose trust in NxtWave, and they might not hire through NxtWave again. 
-This makes it harder for students to get job opportunities if companies don't come back. So, it's really important to attend all the interview process rounds once you apply to a company.
-Failure to attend any round will result in placing your profile on hold for the next two months. 
+
 
 
 
