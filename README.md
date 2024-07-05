@@ -9,9 +9,9 @@ Assignment Link: https://docs.google.com/document/d/1pAs9kwq7OpOmQpcmlWDQeezKviX
 
 Reference Material: 
 Link: https://dour-blade-da4.notion.site/Hava-Havai-Frontend-Assignment-Reference-Document-14f3b930a40e43f99972caf4737f0a5a?pvs=4 
-Assignment Submission Form: https://forms.ccbp.in/havahavai_assignment-submission11 
 
-Deadline to complete the Assignment: 6 PM, July 5th 2024
+
+
 
 Important Instructions: 
 Upon applying to the company, it is essential to participate in every stage of the interview process. 
